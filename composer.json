@@ -1,0 +1,6 @@
+{
+    "name": "yfcusa/nickname-and-diminutive-names-lookup",
+    "description": "Fork of https://github.com/carltonnorthern/nickname-and-diminutive-names-lookup used so composer can fetch it",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/yfcusa/nickname-and-diminutive-names-lookup"
+}
